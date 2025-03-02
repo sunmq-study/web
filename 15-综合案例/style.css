@@ -1,0 +1,40 @@
+h2 {
+    text-align: center;
+    font-weight: 400;
+}
+
+.gray {
+    text-align: center;
+    font-weight: 400;
+    color: #666666;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-indent: 2em;
+    line-height: 26px;
+}
+
+h5 {
+    font-weight: 400;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbox {
+    color: #666666;
+    width: 170px;
+
+}
+
+.search {
+    font-weight: 700;
+}
